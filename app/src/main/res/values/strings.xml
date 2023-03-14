@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lalala</string>
+    <string name="lalala_screen">SpLalalash Screen</string>
+    <string name="lalala_search">Lalala Search</string>
+    <string name="lalala_detail">Lalala Detail</string>
+
+    <string name="click_here_to_continue">CLick here to continue</string>
+    <string name="type_search_here">type search here</string>
+
+    <string name="swipeup">Swipe Up</string>
+
+</resources>
